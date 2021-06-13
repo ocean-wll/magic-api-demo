@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/magic_api
     username: root
-    password: W!l1318544543
+    password: root
 
 #  #配置web页面入口
 #magic-api:
